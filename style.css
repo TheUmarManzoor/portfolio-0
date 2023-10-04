@@ -25,9 +25,10 @@
    padding: 1rem;
    text-decoration: none;
    font-size: 22px;
-   color: black;
+   color:#343434;
    text-align: center;
+   transition: 0.3s ease;
 }
 .nav-links:hover{
-    text-decoration: none;
+   color:black;
 }
